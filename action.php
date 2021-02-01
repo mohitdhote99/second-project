@@ -1,7 +1,7 @@
 <?php 
 include "function.php";
 
-
+// hello jhhhh
 if ($_POST['dance_ajax']) {
    echo "success";
 }else{
